@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "image_collector"
+name = "images_collector"
 version = "0.1.0"
 description = ""
 authors = ["Tanmaypatil123 <tanmaypatil3151@gmail.com>"]

@@ -1,6 +1,6 @@
 from typing import List
 import os
-from image_collector.tools import GoogleSerperTool
+from images_collector.tools import GoogleSerperTool
 import urllib.request
 from logging import Logger
 import requests
